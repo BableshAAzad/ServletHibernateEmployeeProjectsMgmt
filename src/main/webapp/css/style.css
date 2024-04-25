@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	background-image: linear-gradient(to right, rgb(247, 247, 173),
+		rgb(233, 191, 198), rgb(241, 166, 178));
+		margin-top: 10vh;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	
+}
